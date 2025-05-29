@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Sabbir Ahmed. A wannabe data analyst, web dev, and programmer.
+Just a regular dev who loves AI Agents and RAG.
 <!--
 **sabbirahmed404/sabbirahmed404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
